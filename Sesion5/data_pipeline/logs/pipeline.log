@@ -1,0 +1,29 @@
+2025-01-25 16:16:11,541 - INFO - conexion establecida a la base de datos
+2025-01-25 16:16:11,544 - INFO - Archivo  data/departments.csv leido correctamente
+2025-01-25 16:19:07,292 - INFO - conexion establecida a la base de datos
+2025-01-25 16:19:07,294 - INFO - Archivo  data/departments.csv leido correctamente
+2025-01-25 16:20:34,752 - INFO - conexion establecida a la base de datos
+2025-01-25 16:20:34,754 - INFO - Archivo  data/departments.csv leido correctamente
+2025-01-25 16:20:34,771 - INFO - Archivo  data/customers.csv leido correctamente
+2025-01-25 16:21:24,400 - INFO - conexion establecida a la base de datos
+2025-01-25 16:21:24,402 - INFO - Archivo  data/departments.csv leido correctamente
+2025-01-25 16:21:24,419 - INFO - Archivo  data/customers.csv leido correctamente
+2025-01-25 17:02:05,706 - INFO - conexion establecida a la base de datos
+2025-01-25 17:02:05,708 - INFO - Archivo  data/departments.csv leido correctamente
+2025-01-25 17:02:05,721 - INFO - Archivo  data/customers.csv leido correctamente
+2025-01-25 17:02:05,726 - INFO - Archivo  data/categories.csv leido correctamente
+2025-01-25 17:02:05,737 - INFO - Archivo  data/products.csv leido correctamente
+2025-01-25 17:07:01,981 - INFO - conexion establecida a la base de datos
+2025-01-25 17:07:01,983 - INFO - Archivo  data/departments.csv leido correctamente
+2025-01-25 17:07:01,996 - INFO - Archivo  data/customers.csv leido correctamente
+2025-01-25 17:07:02,001 - INFO - Archivo  data/categories.csv leido correctamente
+2025-01-25 17:07:02,004 - INFO - Archivo  data/products.csv leido correctamente
+2025-01-25 17:07:02,046 - INFO - Archivo  data/orders.csv leido correctamente
+2025-01-25 17:07:32,725 - INFO - conexion establecida a la base de datos
+2025-01-25 17:07:32,727 - INFO - Archivo  data/departments.csv leido correctamente
+2025-01-25 17:07:32,747 - INFO - Archivo  data/customers.csv leido correctamente
+2025-01-25 17:07:32,754 - INFO - Archivo  data/categories.csv leido correctamente
+2025-01-25 17:07:32,757 - INFO - Archivo  data/products.csv leido correctamente
+2025-01-25 17:07:32,783 - INFO - Archivo  data/orders.csv leido correctamente
+2025-01-25 17:07:32,864 - INFO - Archivo  data/order_items.csv leido correctamente
+2025-01-25 17:07:32,879 - INFO - Recalculando order_item_subtotal.
